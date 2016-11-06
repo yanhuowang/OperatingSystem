@@ -1,4 +1,4 @@
-#include "/comp/111/a/a3/anthills.h" 
+#include "anthills.h" 
 #include <semaphore.h>
 
 #define TRUE 1
